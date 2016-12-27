@@ -33,3 +33,8 @@ curl -X GET
 -H "Content-Type: application/json" 
 "http://localhost:9000/api"
 ```
+
+
+### Utils
+* H2 Database console `/db`
+* Swagger `/swagger-ui.html`
