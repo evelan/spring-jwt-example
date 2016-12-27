@@ -36,5 +36,5 @@ curl -X GET
 
 
 ### Utils
-* H2 Database console `/db`
-* Swagger `/swagger-ui.html`
+* H2 Database console `http://localhost:9000/db`
+* Swagger `http://localhost:9000/swagger-ui.html`
