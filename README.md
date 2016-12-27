@@ -1,6 +1,7 @@
 # spring-jwt-example
-Sample application using JWT tokens
+Sample Spring Boot application using JWT tokens and Spring Security 
 
+Keep It Simple Stupid
 
 ### Register new user
 
